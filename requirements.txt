@@ -2,4 +2,4 @@ django
 djangorestframework
 pyjwt
 mysqlclient
-pymysql
+
