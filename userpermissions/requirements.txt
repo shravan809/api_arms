@@ -1,6 +1,7 @@
+
+cd userpermissions
 django
 djangorestframework
 pyjwt
 mysqlclient
 pymysql
-cd
