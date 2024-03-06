@@ -3,3 +3,4 @@ djangorestframework
 pyjwt
 mysqlclient
 pymysql
+cd
